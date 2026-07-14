@@ -1,5 +1,5 @@
-# BS<sup>3</sup>LNet
-This is the official repository for  ["BS<sup>3</sup>LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Anomaly Detection"](https://ieeexplore.ieee.org/abstract/document/10049187) in IEEE Transactions on Geoscience and Remote Sensing (TGRS). 
+# BS<sup>3</sup>LNet-ESI Highly Cited Paper (TOP 1%)🏆
+This is the official repository for  ["BS<sup>3</sup>LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Anomaly Detection"](https://ieeexplore.ieee.org/abstract/document/10049187) in IEEE Transactions on Geoscience and Remote Sensing (TGRS), an ESI Highly Cited Paper (TOP 1%)🏆. 
 
 ![alt text](./figs/BS3LNet_model.jpg)
 
